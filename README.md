@@ -1,135 +1,111 @@
-Hi there 👋 It's me Mithun Ram
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A800&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+It's+me+Mithun+Ram;Cyber+Security+Student+%F0%9F%94%90;State-Level+Handball+Player+%F0%9F%8F%86;IoT+%26+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-Cyber Security Student 🔐 | Ethical Hacker in Progress | CTF Player
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding GIF">
+</p>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-· 🔭 I'm currently working on Cyber Security Projects & CTF Challenges
-· 🌱 I'm currently learning Penetration Testing, Network Security & Malware Analysis
-· 👯 I'm looking to collaborate on Open Source Security Tools
-· 🛡️ Passionate about Ethical Hacking & Digital Forensics
-· ⚡ Fun fact: I break things to make them more secure 😄
-· 📫 How to reach me: LinkedIn
+## 👨‍💻 About Me
+- 🎓 I'm currently pursuing **B.E. Cyber Security** (2024 - Present)
+- 🔭 I'm currently working on **Cyber Security Projects & IoT Innovations**
+- 🌱 I'm currently learning **Penetration Testing, Network Security & Malware Analysis**
+- 🚀 I love building things that solve real-world problems
+- 🏐 **State-Level Handball Player** — Teamwork, discipline, and sportsmanship are my core strengths!
+- ⚡ Fun fact: I speak **Tamil (Native)** and **English (Proficient)**
+- 📫 How to reach me: **mithunram7397@gmail.com** | 📞 +91 7397143862
 
 ---
 
-🌐 Social Presence
+## 🛡️ Cyber Security Arsenal & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+### 🪖 Smart Helmet for Accident Detection & Navigation
+> **Tech Stack:** IoT, Sensors, Arduino/NodeMCU
+- Built a smart helmet equipped with **vibration sensors** to detect accidents.
+- Automatically sends **alert messages to family members and ambulance services** when an accident is detected.
+- Integrated **navigation assistance** for the rider.
+
+### 🤖 Animated ChatGPT Clone
+> **Tech Stack:** HTML, CSS, JavaScript, API Integration
+- Created a fully functional clone of ChatGPT with a **same-but-better UI**.
+- Added **custom animations** to make the user experience engaging and dynamic.
+
+### 🦾 IoT Mini Robot
+> **Tech Stack:** IoT, Robotics, Embedded C
+- Developed a mini robot controlled via IoT, demonstrating hardware-software integration.
+
+---
+
+## 🏆 Sports Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/Handball-State_Level_Player-F7A800?style=for-the-badge&logo=olympics&logoColor=white" />
+</p>
+
+> *"Sports taught me discipline, teamwork, and the spirit to never give up — qualities I bring to Cyber Security."*
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/aamma4767-sudo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mithun-ram-5978702a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/profile/aamma4767"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href="https://leetcode.com/mithunram56789RAM/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://github.com/aamma4767-sudo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mithun-ram-5978702a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_.blackberry._27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/aamma4767"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/mithunram56789RAM/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
 ---
 
-🛡️ Cyber Security Arsenal
-
-<p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/kali-linux.png" title="Kali Linux"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/wireshark.png" title="Wireshark"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/burp-suite.png" title="Burp Suite"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/metasploit.png" title="Metasploit"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nmap.png" title="Nmap"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/security-shield-green.png" title="Security"/>
-</p>
-
-💻 I code in
-
-<p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/command-line.png" title="Bash"/>
-</p>
-
-🧰 IDE & Tools I Use
-
-<p align="left">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" title="Git"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png" title="Anaconda"/>
-<img height="50" width="50" src="https://img.icons8.com/color/480/null/kali-linux.png" title="Kali Linux"/>
-<img height="50" width="50" src="https://img.icons8.com/color/480/null/linux-terminal.png" title="Terminal"/>
-<img height="50" width="50" src="https://img.icons8.com/color/480/null/virtualbox.png" title="VirtualBox"/>
-<img height="50" width="50" src="https://img.icons8.com/color/480/null/docker.png" title="Docker"/>
-</p>
-
----
-
-🚀 Projects
-
-🔐 Currently building my cyber security portfolio — projects will be added soon!
-
-· 🛡️ Network Vulnerability Scanner — Python-based scanner to detect open ports & weak configurations
-· 🔍 Phishing URL Detector — ML-powered tool to identify malicious URLs
-· 🔐 Password Strength Analyzer — Checks password strength against common attack vectors
-· 🕵️ Keylogger Detection Tool — Detects suspicious processes on Linux/Windows
-· 📡 WiFi Security Auditor — Tools to test wireless network security (for educational purposes)
-
----
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aamma4767-sudo&theme=dark&show_icons=true&hide=issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aamma4767-sudo&theme=dark&show_icons=true&hide=issues,contribs" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aamma4767-sudo&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamma4767-sudo&theme=dark" />
 </p>
 
-🏆 Coding Profiles
+### 🏆 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/mithunram56789RAM/">
-<img src="https://leetcard.jacoblin.cool/mithunram56789RAM?ext=contest&theme=dark" />
-</a>
+  <a href="https://leetcode.com/mithunram56789RAM/">
+    <img src="https://leetcard.jacoblin.cool/mithunram56789RAM?ext=contest&theme=dark" />
+  </a>
 </p>
 
 ---
 
-📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamma4767-sudo&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
-</a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aamma4767-sudo&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
+  </a>
 </p>
 
 ---
 
-✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aamma4767-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center"><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
-
----
-
-📝 Setup Instructions (for you, Mithun):
-
-1. Create a new repository named exactly aamma4767-sudo (same as your username) on GitHub.
-2. Make it public and check ✅ Add a README file.
-3. Paste the above content into the README.md.
-4. Commit — it will now appear on your GitHub profile page automatically! ✨
-
-Note: Replace the placeholder project names with your actual projects. The Kali Linux, Wireshark, Metasploit, Burp Suite, etc. icons may sometimes not load from icons8 — if any icon breaks, just delete that <img> tag. Once you share your resume/project list, I'll refine it further in Tamil or English whichever you prefer. 🚀
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br><br>
+  <i>"Learning Today, Securing Tomorrow."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=aamma4767-sudo&label=Profile%20views&color=F7A800&style=flat" alt="Profile views" />
+</div>
